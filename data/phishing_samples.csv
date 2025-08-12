@@ -1,7 +1,5 @@
-text,label
-"Click this link http://bad-domain.xyz now",1
-"Verify your account immediately",1
-"Meeting schedule for next week",0
-"Please find attached report",0
-"Urgent: Update your password at http://phishingsite.com",1
-"Let's have lunch tomorrow",0
+email_text,label
+"Dear user, please verify your account by clicking http://phishingsite.com/login",1
+"Hello John, let's meet tomorrow for lunch",0
+"Your password has expired, please update now at http://fakeupdate.com",1
+"Hi team, the meeting notes are attached",0
