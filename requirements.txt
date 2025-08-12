@@ -1,5 +1,2 @@
 scikit-learn
 pandas
-email-validator
-tldextract
-python-magic
