@@ -1,0 +1,12 @@
+From: attacker@bad-domain.xyz
+To: victim@example.com
+Subject: Urgent account update required
+
+Dear user,
+
+Please update your password immediately by clicking the link below:
+
+http://bad-domain.xyz/reset-password
+
+Regards,
+Security Team
